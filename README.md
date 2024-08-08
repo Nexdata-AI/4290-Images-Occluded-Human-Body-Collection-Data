@@ -3,7 +3,7 @@
 ## Description
 4,290 Images – Occluded Human Body Collection Data. There are 2-5 occluded human bodies for each images. The age distribution is ranging from children to the elderly, the middle-aged and young people are the majorities. The race distribution is Asian. The data diversity includs multiple scenes, multiple age groups, multiple occluded between human bodies, multiple human body postures. The data can be used for tasks such as occluded human body detection and segmentation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1319?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1319?source=Github
 
 
 ## Data size
